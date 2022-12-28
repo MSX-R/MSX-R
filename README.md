@@ -36,6 +36,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/romainmarsaleix" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romainmarsaleix" height="40" width="40" display="none"/>  </a>
 </p>
-<img align="center" src="https://msx-r.github.io/portfolio/static/media/logoblanc.888120a6940ff0715c9d.png
+<img align="center" src="https://github.com/MSX-R/MSX-R/blob/main/Base%20signature%20(1).pdf
 " alt="romainmarsaleix" />
 
