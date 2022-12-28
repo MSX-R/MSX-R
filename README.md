@@ -34,6 +34,6 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/romainmarsaleix" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romainmarsaleix" height="70" width="70" display="none"/>  </a>
+<a href="https://linkedin.com/in/romainmarsaleix" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romainmarsaleix" height="40" width="40" display="none"/>  </a>
 </p>
 
