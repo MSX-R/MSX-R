@@ -7,17 +7,18 @@
 
 - 🌱 I’m currently learning **React, Node & Express, Typescript**
 
-- 👯 I’m looking to collaborate on **front-end and Unity/Unreal video game projects**
+- 👯 I’m looking to collaborate on **front-end works and Unity/Unreal video game projects**
 
 - 👨‍💻 All of my projects are available at [https://msx-r.github.io/portfolio/](https://msx-r.github.io/portfolio/)
 
-- 💬 What do you like to do ? **I like to create things, I always have plenty of ideas for that! I have always loved to create logos, communication supports, website models, stories... So much so that during a hackathon, I decided to create a prototype of a 2D video game under Unity using many ideas that came to my mind.**
+- 💬 What do I like to do ? **I like to create things, I always have plenty of ideas for that! I have always loved to create logos, communication supports, website models, stories... So much so that during a hackathon, I decided to create a prototype of a 2D video game under Unity using many ideas that came to my mind.**
 
-- 📫 How to reach me **write me a private message on github :)**
+- 📄 Few words about experiences : Some group projects and solo projects + Pro experience as a developer @ProBTP
 
-- 📄 Know about my experiences : few teamprojects + a first pro exp' as developer @proBTP
+- 📫 How to reach me : **write me a private message on github :)**
 
-- ⚡ Fun fact **In 2021, I was a personal trainer. Now, I do my best to be a better developer.**
+- ⚡ Fun fact : **In 2021, I was a personal trainer. In 2022, I do my best to BE a better developer.**
+
 
 
 
