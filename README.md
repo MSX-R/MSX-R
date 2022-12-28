@@ -15,7 +15,7 @@
 
 - 📄 Few words about experiences : Some group projects and solo projects + Pro experience as a developer @ProBTP
 
-- 📫 How to reach me : **Send me a private message on github :)**
+- 📫 How to reach me : **Send me a private message on github / linkedln :)**
 
 - ⚡ Fun fact : **In 2021, I was a personal trainer. In 2022, I do my best to BE a better developer.**
 
