@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node & Express, Typescript**
 
-- 👯 I’m looking to collaborate on **front-end works and Unity/Unreal video game projects**
+- 👯 I’m looking to collaborate on **Front-end works and Unity/Unreal video game projects**
 
 - 👨‍💻 All of my projects are available at [https://msx-r.github.io/portfolio/](https://msx-r.github.io/portfolio/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Few words about experiences : Some group projects and solo projects + Pro experience as a developer @ProBTP
 
-- 📫 How to reach me : **write me a private message on github :)**
+- 📫 How to reach me : **Send me a private message on github :)**
 
 - ⚡ Fun fact : **In 2021, I was a personal trainer. In 2022, I do my best to BE a better developer.**
 
