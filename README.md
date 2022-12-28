@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MSX-R => my personal portfolio**
 
-- 🌱 I’m currently learning **React, Node & Express, Typescript**
+- 🌱 I’m currently learning **React, Node + Express, Typescript**
 
 - 👯 I’m looking to collaborate on **Front-end works and Unity/Unreal video game projects**
 
