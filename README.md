@@ -33,7 +33,7 @@
 <br/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/romainmarsaleix" target="blank"><img src="https://github.com/MSX-R/MSX-R/blob/main/Base%20signature.png" width="450" height="150" align="center" alt="Profesional banner of Marsaleix Romain - Web developer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romainmarsaleix" height="70" width="70" />  </a>
+<p align="left">
+<a href="https://linkedin.com/in/romainmarsaleix" target="blank"><img src="https://github.com/MSX-R/MSX-R/blob/main/Base%20signature.png" width="450" height="150" align="center" alt="Profesional banner of Marsaleix Romain - Web developer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romainmarsaleix" height="70" width="70" display="none"/>  </a>
 </p>
 
