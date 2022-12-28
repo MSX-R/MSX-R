@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msx-r&label=Profile%20views&color=0e75b6&style=flat" alt="msx-r" /> </p>
 
-- 🔭 I’m currently working on **MSX-R => my personal portfolio and secondary projects**
+- 🔭 I’m currently working on **MSX-R => my personal portfolio**
 
 - 🌱 I’m currently learning **React, Node & Express, Typescript**
 
